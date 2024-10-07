@@ -23,4 +23,5 @@ model User {
   fechaNacimiento DateTime
   createdAt DateTime @default(now()) @db.Timestamp(6)
   updatedAt DateTime? @updatedAt @db.Timestamp(6)
+  @@map("users")
 }
