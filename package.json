@@ -9,6 +9,7 @@
   "author": "Eduardo0013",
   "license": "MIT",
   "dependencies": {
+    "@prisma/client": "^5.20.0",
     "@types/express": "^5.0.0",
     "dotenv": "^16.4.5",
     "jsonwebtoken": "^9.0.2",
