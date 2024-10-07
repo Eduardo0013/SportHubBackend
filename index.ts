@@ -1,4 +1,4 @@
-import App from "./modules/core/app/App"
+import App from "./app/App"
 
 const app = new App()
 
